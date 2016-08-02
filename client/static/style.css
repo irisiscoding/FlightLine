@@ -1,0 +1,15 @@
+#container{
+    background-color: rgb(190,40,45);
+}
+
+html {
+    background-color: rgb(176,185,185);
+}
+
+img {
+    align-items: center;
+    width: 800px;
+    height:400px;
+    margin-left: 450px;
+    display: inline-block;
+}
